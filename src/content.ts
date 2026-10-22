@@ -38,12 +38,12 @@ export const surprises = [
  'You deserve a few delightful plot twists.',
  'May this year surprise you in the best ways.',
  'Keep making a life that feels like yours.',
- 'Happy 23rd. The next chapter is yours.'
+ 'Happy 22nd. The next chapter is yours.'
 ];
 export const letter = [
  'Happy 22nd birthday.',
  'I hope you take a moment today to see just how much you have done. Moving somewhere new, finding your rhythm, and handling the unexpected takes more courage than people always see.',
  'I hope this year brings you brilliant films, music you love, new places to explore, and so many ordinary days that turn into great memories.',
- 'This little case was made to celebrate you, your independence, and the wonderful chapters still ahead. You deserve to feel appreciated today.',
- 'Happy Birthday, Meet'
+ 'This little case was made to celebrate you, your braveness, and the wonderful chapters still ahead. You deserve to feel appreciated today.',
+ 'Happy Birthday,'
 ];
